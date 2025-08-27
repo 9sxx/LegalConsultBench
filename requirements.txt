@@ -1,0 +1,7 @@
+pandas
+numpy
+ollama
+bert-score
+torch
+psutil
+openpyxl
