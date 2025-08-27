@@ -113,8 +113,8 @@ project_root/
 ├── data_processing.py
 ├── main.py
 ├── calculate_scores.py
-├── requirements.txt            # 依赖文件 / Dependencies
-└── README.md                  # 本文件 / This file
+├── requirements.txt            # Dependencies
+└── README.md                  # This file
 ```
 
 ---
